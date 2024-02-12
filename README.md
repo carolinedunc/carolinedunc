@@ -1,5 +1,4 @@
-# 🄲🄰🅁🄾🄻🄸🄽🄴 🄳🅄🄽🄲🄰🄽
-Computer Science Major
+### Computer Science Major
 
 # About Me:
 - Currently a freshman in computer science
