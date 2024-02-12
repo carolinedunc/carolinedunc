@@ -10,5 +10,6 @@
 [Java]
 
 # Coursework: 
-/Fundamentals of Computing I:
+Fundamentals of Computing I:
+
 Fundamentals of Computing II:
