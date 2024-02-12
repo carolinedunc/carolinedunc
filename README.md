@@ -1,5 +1,13 @@
-### Hi there 👋
+### Caroline Duncan
+Computer Science Major
 
+# About Me:
+- Currently a freshman in computer science; also plan on pursuing a business minor
+
+# Experience:
+[Python]
+
+[Java]
 <!--
 **carolinedunc/carolinedunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
