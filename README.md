@@ -1,4 +1,4 @@
-### Caroline Duncan
+![NameImage]()
 Computer Science Major
 
 # About Me:
