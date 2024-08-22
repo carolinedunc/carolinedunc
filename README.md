@@ -1,8 +1,8 @@
 ### Computer Science Major
 
 # About Me:
-- Currently a freshman in computer science
-- Plan on pursuing a business minor
+- Currently a Sophomore in Computer Science
+- Plan on pursuing a secondary Finance degree
 
 # Experience:
 [Python]
@@ -13,3 +13,5 @@
 Fundamentals of Computing I:
 
 Fundamentals of Computing II:
+
+Software Construction: 
