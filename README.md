@@ -2,12 +2,14 @@
 
 # About Me:
 - Currently a Sophomore in Computer Science
-- Plan on pursuing a secondary Finance degree
+- Plan on pursuing a Business Minor
 
 # Experience:
 [Python]
 
 [Java]
+
+[C++]
 
 # Coursework: 
 Fundamentals of Computing I:
